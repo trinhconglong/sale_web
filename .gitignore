@@ -1,0 +1,24 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/sale_web/node_modules
+
+# testing
+/sale_web/coverage
+
+# production
+/sale_web/build
+
+# misc
+/sale_web/.DS_Store
+/sale_web/.env.local
+/sale_web/.env.development.local
+/sale_web/.env.test.local
+/sale_web/.env.production.local
+
+/sale_web/npm-debug.log*
+/sale_web/yarn-debug.log*
+/sale_web/yarn-error.log*
+
+./idea
+.idea/
