@@ -2,6 +2,8 @@
 
 # dependencies
 /sale_web/node_modules
+/sale_web/server/node_modules
+/sale_web/client/node_modules
 
 # testing
 /sale_web/coverage
@@ -20,5 +22,7 @@
 /sale_web/yarn-debug.log*
 /sale_web/yarn-error.log*
 
-./idea
+/sale_web/.idea
 .idea/
+
+
